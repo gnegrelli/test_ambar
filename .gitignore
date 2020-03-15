@@ -1,3 +1,5 @@
 venv/
 
 electric-power-consumption-data-set/
+
+.ipynb_checkpoints/
